@@ -176,6 +176,9 @@ button:focus {
   .nav-link {
     padding: 0.7rem 1rem !important;
   }
+  .logo {
+    width: 150px;
+  }
 }
 
 .navbar-nav .nav-item {
