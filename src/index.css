@@ -1,0 +1,8 @@
+@import url("https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap");
+body {
+  margin: 0;
+  font-family: "Mukta", sans-serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-image: linear-gradient(to left, #2c3333, #161a1a);
+}
