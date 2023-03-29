@@ -177,6 +177,11 @@ button:focus {
     padding: 0.7rem 1rem !important;
   }
   .logo {
+    width: 200px;
+  }
+}
+@media (max-width: 576px) {
+  .logo {
     width: 150px;
   }
 }
